@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+h1 {
+    background-color:#0055A2;
+    color:aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+main {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0055a2;
+}
+footer {
+    text-align: center;
+    margin-top: 200px;
+    background-color: #0055A2 ;
+}
+h3 {
+    text-align: center;
+    color:aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
